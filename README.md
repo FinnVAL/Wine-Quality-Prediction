@@ -36,5 +36,5 @@ Output variable (based on sensory data):
 
 13 - quality (score between 0 and 10)
 
-Acknowledgement
+# Acknowledgement:
 We thank P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis for providing this dataset.
